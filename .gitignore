@@ -1,0 +1,10 @@
+.venv/
+__pyache__
+*.pyc 
+
+target/
+dbt_packages/
+
+data/raw/*.csv
+
+.DS_Store
