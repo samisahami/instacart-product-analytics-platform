@@ -8,3 +8,8 @@ dbt_packages/
 data/raw/*.csv
 
 .DS_Store
+
+*.duckdb
+*.log
+target/
+logs/
