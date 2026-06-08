@@ -10,6 +10,23 @@ The pipeline ingests raw customer order data, loads it into DuckDB, transforms i
 
 ---
 
+
+### Product Analytics
+
+- Top Products
+- Top Departments
+- Product Reorder Analysis
+
+### Customer Retention
+
+- Customer Purchase Behavior
+- Repeat Purchase Trends
+- Retention Metrics
+
+![PowerBI Product Analysts Dashboard](docs/instacart_product_analytics_dashboard.png)
+
+---
+
 ## Tech Stack
 
 - Python
@@ -208,19 +225,6 @@ Dashboard includes:
 - Reorder Rate
 - Average Products Per Order
 
-### Product Analytics
-
-- Top Products
-- Top Departments
-- Product Reorder Analysis
-
-### Customer Retention
-
-- Customer Purchase Behavior
-- Repeat Purchase Trends
-- Retention Metrics
-
-![PowerBI Product Analysts Dashboard](docs/instacart_product_analytics_dashboard.png)
 
 ---
 
