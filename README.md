@@ -220,7 +220,7 @@ Dashboard includes:
 - Repeat Purchase Trends
 - Retention Metrics
 
-
+![PowerBI Product Analysts Dashboard](docs/instacart_product_analytics_dashboard.png)
 
 ---
 
